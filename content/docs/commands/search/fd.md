@@ -1,5 +1,5 @@
 ---
-title: "fd"
+title: "fd - 更易用的文件查找命令"
 weight: 2
 ---
 

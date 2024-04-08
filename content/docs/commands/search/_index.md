@@ -1,6 +1,7 @@
 ---
 title: "搜索查找"
 weight: 2
+bookCollapseSection: true
 ---
 
 # 搜索查找

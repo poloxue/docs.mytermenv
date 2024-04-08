@@ -1,5 +1,5 @@
 ---
-title: "ripgrep"
+title: "ripgrep - 更高效的文件搜索"
 weight: 2
 ---
 

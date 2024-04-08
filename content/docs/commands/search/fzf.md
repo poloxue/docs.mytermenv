@@ -1,9 +1,9 @@
 ---
-title: "fzf"
+title: "fzf - 交互式查找器"
+weight: 3
 ---
 
-
-# fzf
+# fzf - 交互式查找器
 
 [fzf](https://github.com/junegunn/fzf) 全名 fuzzy finder，一款通用的命令行模糊查找工具。它可与其他命令结合，提升其他命令的使用体验。
 
