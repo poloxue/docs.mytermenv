@@ -1,5 +1,5 @@
 ---
-title: "fzf - 交互式查找器"
+title: "fzf - 交互式命令行查找器"
 weight: 3
 ---
 
