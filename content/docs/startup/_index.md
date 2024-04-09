@@ -1,7 +1,6 @@
 ---
-title: "启动消息"
+title: "欢迎消息"
 weight: 5
-bookCollapseSection: true
 ---
 
 # 启动消息

@@ -1,7 +1,6 @@
 ---
 title: "iTerm2"
 weight: 1
-bookCollapseSection: true
 ---
 
 # iTerm2

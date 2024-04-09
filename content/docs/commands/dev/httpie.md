@@ -5,9 +5,11 @@ weight: 2
 
 # 人性化 HTTP Client 命令 - httpie
 
-快速调试 HTTP Web 接口，你首先想到的方案是什么？或许是是图形化能力超强的 Postman，亦或是命令行工具 curl，甚至可能通过浏览器即可。
+如果要你快速调试 HTTP API 接口，你首先想到的工具是什么？是 GUI 版 HTTP 客户端 Postman，还是命令行 curl，亦或是直接浏览器即可。
 
-[httpie](https://github.com/httpie/cli/) 是一款更人性化的 HTTP 命令行客户端，简单来说，比 curl 更加易于使用。
+本文介绍一款更人性化的 HTTP 客户端命令 - [httpie](https://github.com/httpie/cli/) ，它比 curl 更易于使用。
+
+我们提前预览它的一些超强特性和效果吧。
 
 ## 安装
 
@@ -15,11 +17,12 @@ weight: 2
 brew install httpie
 ```
 
-## 快手上手
+## 快手开始
 
 最简单的使用案例，快速发起 GET 和 POST 请求。
 
 GET 请求：
+
 ```
 http GET http://httpbin.org/get name==poloxue age==18
 ```

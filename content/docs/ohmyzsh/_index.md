@@ -1,7 +1,6 @@
 ---
-title: "ohmyzsh"
+title: "oh-my-zsh"
 weight: 3
-bookCollapseSection: true
 ---
 
 # ohmyzsh

@@ -1,7 +1,6 @@
 ---
 title: "zsh"
 weight: 2
-bookCollapseSection: true
 ---
 
 # zsh
